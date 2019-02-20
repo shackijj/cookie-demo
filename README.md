@@ -1,9 +1,9 @@
 1. Install and launch
 
-`
+```
     npm install
     npm start
-`
+```
 
 2. Open http://localhost:3000
 
